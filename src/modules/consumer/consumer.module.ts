@@ -10,6 +10,5 @@ import { QueueProcessors } from './consumer.processor';
     }),
   ],
   providers: [QueueProcessors],
-  controllers: [],
 })
 export class ConsumerModule {}
